@@ -1,0 +1,13 @@
+.vs/
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+*.csproj
+*.sln
+*.slnx
+*.tgz
+Packages/*.tgz
